@@ -1,1 +1,1 @@
-This is a sample repo for learning Git Basics.
+# Learning_Git_Basics
